@@ -1,5 +1,4 @@
-Name: Yuxiang Fan
-Student ID: 1167503321
+# Socket Communication Projection
 
 Part Done:
 
