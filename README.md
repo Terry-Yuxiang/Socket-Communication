@@ -1,4 +1,4 @@
-# Socket Communication Project
+# Socket Meeting Schedule Process Project
 
 Part Done:
 
