@@ -1,4 +1,4 @@
-# Socket Communication Projection
+# Socket Communication Project
 
 Part Done:
 
